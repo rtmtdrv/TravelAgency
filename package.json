@@ -1,0 +1,16 @@
+{
+  "name": "TravelAgency",
+  "version": "1.0.0",
+  "description": "Travel agency website theme using Materialize CSS 1.0 WITHOUT jQuery",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://rtmtdrv.github.io/TravelAgency",
+}
